@@ -1,0 +1,7 @@
+# Outut from LaTex compilation
+
+*.aux
+*.log
+*.pdf
+*.gz
+
